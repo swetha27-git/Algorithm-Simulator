@@ -1,4 +1,4 @@
-Done by Swetha:
+
 1)created sorting_page.dart(to give input and select sort )
 2)created sorting_animation_page.dart(to show the sorting process visually)
 3)created algorithm_descriptions.dart(to show explanation of step by step swapping)

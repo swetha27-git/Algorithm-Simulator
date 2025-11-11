@@ -4,95 +4,89 @@ Done by Swetha:
 3)created algorithm_descriptions.dart(to show explanation of step by step swapping)
 4)created sorting_codes.dart(to show code for that selected sort)
 
-Done by Madhan:
+
 To run this code 
 1) Replace your lib folder with this one inside your flutter application.
 2) Also update pubspec.yaml if needed.(Check commit messages for this).
 3) Also check the assets folder if it is not present then place this in root directory of your flutter application.
 4) Now run your application in android studio by connection any virtual device.
 
-Done by Kavin Malar:
+
 pubspec.yaml updated 
 splash_screen.dart and home_page.dart pages are cerated
 code changed in main.dart
 
-Done by Kirthick Kumar:
+
 pubspec.yaml updated(once you replace them, run flutter pub get to install new dependencies). 
 New comparison_page.dart has created for graph comparisons.
 main.dart has been updated(replace them with the old one).
 algorithm_sorting.dart has been updated(replace them with the old one).
 sorting_page.dart,sorting_animation_page.dart have been updated for graph comparisons(replace them with the older ones).
 
-Done by Madhan-2:
+
 Added titlecard.mov video for loading screen namecard animation.
 pubspec.yaml updated(added dependencies for titlecard.mov video).
 splash_screen.dart code has been updated Replaced old text with video for loading screen).
 
-After cat 1 
-Done by Madhan-3:
+
 Added loading.mov for animation between screens.
 New UI changes for sorting.
 Fixed slow loading of comparison screen.
 
-Done by Swetha:
+
 1)created searching_page.dart(to make user to find the searching of a number with linear search,binary search,hashing)
 2)created searching_animation_page.dart(to show the visual searching steps)
 3)created searching_algorithm_descriptions.dart(to show the step by step explanation of that particular search technique)
 
-Done by Madhan-4:
+
 Added all codes for graph algorithms.
 4 graph algorithms added prim's, kruskal's, dijkstra, bellmanford.
 To run this just place the graph folder inside your lib also changed home_page.dart for graph algorithms navigation.
 
-Done by Kavin Malar :
+
 enhanced sorting animation with code and description
 grouped sorting algorithms into one folder
 import changes in main.dart and home.dart
 
 
-Done by Kirthick Kumar:
 Added a new page for searching that contains the programming codes along with its time complexity
 Modified the overall UI design for searching
 Integrated timeline into animation page
 Modified the comparison logics in graphs and it will display the final efficient algorithm among the selected ones for better understanding... 
 
-Done by Swetha:
+
 Design
 1)updated searching_algorithm_descriptions.dart
 2)updated searching_code_page.dart
 
-Done by Kavin Malar : 
+
 updated sorting_codes.dart for C, C++, Python
 
-Done by Swetha:
 Design
 1)updated sorting_page.dart
 2)updated sorting_animation_page.dart
 3)updated algorithm descriptions.dart with description and time complexity
 
-Done by Madhan-5:
+
 A complete revamp has been done to graph algorithms
 Icons added 
 removed flutter logo loading 
 
-Done by Kavin Malar: 
 updated sorting_page.dart to handle 0 and negative inputs.
 updated sorting_animation_page to handle negative inputs.
 updated searching_page.dart for the show dialog.
 
-Done by Madhan-6:
+
 Added status message for kruskal and prims algorithm.
 New titlecard.mov updated
 
-Done by Kavin Malar :
+
 updated sorting comparison_page.dart for correct working 
 changes in sorting_page.dart
 
-Done by Kavin Malar : 
 updated sorting_animation_page.dart to support upto 20 inputs
 changes in sorting_page.dart
 
-Done by Madhan-7:
 Updated dijkstra_page.dart code
 Exception cases for input graph are handled.
 Prims fixed but still not stable.
